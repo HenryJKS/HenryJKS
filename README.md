@@ -7,7 +7,7 @@
 - 💻❌ Python / PostgreSQL
 
   <div>
-  <a href="https://github.com/luiz7727">
+  <a href="https://github.com/henryjks">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henryjks&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjks&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
   </div>
