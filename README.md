@@ -6,6 +6,8 @@
 - 💻✔️ Oracle SQL / mySQL / SQL Server / MDX
 - 💻❌ Python / PostgreSQL
 
+##
+
   <div>
   <a href="https://github.com/henryjks">
   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=henryjks&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
