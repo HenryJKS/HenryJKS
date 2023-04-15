@@ -6,8 +6,8 @@
 - 💻✔️ Oracle SQL / mySQL / SQL Server / MDX
 - 💻☑️ Python
 
-<div>
- <a href="https://github.com/HenryJKS"></a>
-   <img height="" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vision-friendly-dark)">
-</div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryjks&theme=dark&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryjks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 -->
