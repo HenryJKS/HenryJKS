@@ -1,4 +1,4 @@
-### Opa, Como Vai? Bem-vindo
+### Opa, Como Vai?
 
 - 🔭 Atualmente estudando Data Engineer Data Analytics / Data Science / Data Warehouse / DBA
 - 🌱 Aprendizado concluido: PL/SQL / T-SQL / Administração Banco de Dados / ETL / Manipulação de Dados 
