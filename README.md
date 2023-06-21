@@ -4,7 +4,7 @@
 - 🌱 Aprendizado concluido: PL/SQL / T-SQL / Administração Banco de Dados / ETL / Manipulação de Dados 
 - 🔧 Ferramentas usadas: SSIS / Pentaho / mySQL Workbench / SQL Server Management Studio / SQL Developer / Power BI / Anaconda Navigator / Visual Studio
 - 💻✔️ Oracle SQL / mySQL / SQL Server / MDX / Python / PostgreSQL / NLP
-- 💻❌ Machine Learning / Deep Learning / 
+- 💻❌ Machine Learning / Deep Learning / Dash Python / Plotly Python /
 
 ##
 
