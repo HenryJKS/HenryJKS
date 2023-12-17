@@ -1,4 +1,4 @@
-### Opa, Como Vai?
+### Coding and coding...
 
 - 🔭 Atualmente estudando sobre Data Engineer / Data Analytics / Data Science / Data Warehouse / DBA
 - 🌱 Aprendizado concluido: PL/SQL / T-SQL / Administração Banco de Dados / ETL / Manipulação de Dados 
