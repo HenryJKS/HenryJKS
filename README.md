@@ -1,10 +1,6 @@
 ### Coding and coding...
 
-- 🔭 Atualmente estudando sobre Data Engineer / Data Analytics / Data Science / Data Warehouse / DBA / Blockchain
-- 🌱 Aprendizado concluido: PL/SQL / T-SQL / Administração Banco de Dados / ETL / Manipulação de Dados / Solidity
-- 🔧 Ferramentas usadas: SSIS / Pentaho / mySQL Workbench / SQL Server Management Studio / SQL Developer / Power BI / Anaconda Navigator / VS Code / PyCharm / Remix Ethereum
-- 💻✔️ Oracle SQL / mySQL / SQL Server / MDX / Python / PostgreSQL / NLP / Machine Learning / Deep Learning / Dash Python / Plotly Python /
-- 💻❌ LMMs
+
 
 ##
 
