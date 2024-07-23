@@ -1,6 +1,6 @@
 ### Coding and coding...
 
-- Focused in Solidity, Rust, Python, RDBMS
+- Focused in Solidity, Rust, Python, RDBMS, JavaScript
 
 <div style="display: flex; gap: 10px; align-items: center; margin-bottom: 20px;">   
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
