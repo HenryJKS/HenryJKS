@@ -1,6 +1,6 @@
 ### Coding and coding...
 
-- Focused in Solidity, Rust, Python, RDBMS, JavaScript
+Currently as a Data Scientist
 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;"/> 
