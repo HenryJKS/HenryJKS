@@ -23,4 +23,7 @@
   <a href="https://www.leetcode.com/u/HenryJKS/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank">
   </a>
+  <a href="https://www.kaggle.com/henryjks" target="_blank">
+    <img src="https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" target="_blank">
+  </a>
 </div>
